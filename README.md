@@ -1,8 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 ### <div align="center">I'm Görkem, a Full-Stack Developer 👨‍💻
   
-
+<div align="center">
+<a href="https://linkedin.com/in/gorkemakcay" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+<br/>  
+  
 - 🔭 I’m currently working on [ArlentusDocs](https://github.com/gorkemakcay/ArlentusDocs)
   
 
@@ -15,9 +22,7 @@
 <br/>  
 
 ## My Skill Set  
-<table align="center">
-  <tr>
-    <td valign="top" width="100%">
+
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
@@ -31,24 +36,11 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-  </tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/gorkemakcay" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemakcay&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemakcay&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
 
 <br/>
   
