@@ -16,7 +16,7 @@
 
 
 ## My Skill Set  
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="100%">
 <div align="center">  
