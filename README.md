@@ -1,14 +1,9 @@
-## Hi there 👋
 
-### <div align="center">I'm Görkem, a Full-Stack Developer 👨‍💻
+## <div align="center">Hi there 👋 I'm Görkem, a Full-Stack Developer 👨‍💻
   
 <div align="center">
-<a href="https://linkedin.com/in/gorkemakcay" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" width="150px" height="100px"></a>
 </div>  
-  
-<br/>  
   
 - 🔭 I’m currently working on [ArlentusDocs](https://github.com/gorkemakcay/ArlentusDocs)
   
@@ -20,8 +15,7 @@
   
 
 <br/>  
-
-## My Skill Set  
+<hr />
 
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -38,10 +32,12 @@
 
 
 <br/>  
+<hr />
 
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemakcay&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
 
 <br/>
   
-  ![snake gif](https://github.com/gorkemakcay/gorkemakcay/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://linkedin.com/in/gorkemakcay"><img src="https://github.com/gorkemakcay/gorkemakcay/blob/output/github-contribution-grid-snake.svg"></a>
+</div>  
