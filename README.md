@@ -1,19 +1,19 @@
 
-## <div align="center">Hi there 👋 I'm Görkem, a Full-Stack Developer 👨‍💻
-  
-<div align="center">
-<a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" width="150px" height="100px"></a>
-</div>  
-  
-- 🔭 I’m currently working on [ArlentusDocs](https://github.com/gorkemakcay/ArlentusDocs)
+## <div align="center">Hi there 👋 I'm Görkem, a Full-Stack Developer 👨‍💻</div>
+
+ 
+    I adopt and implement SOLID principles, OOP Basics, Software Architectures and Design Patterns when coding. ❤️ d==(◕◡◕)==b
+   </br>
+   
+ 🔭 <strong> I’m currently working  on [ArlentusDocs](https://github.com/gorkemakcay/ArlentusDocs)
   
 
-- 🌱 I’m currently learning React
+ 🌱 I’m currently learning React
   
 
-- ❓ Ask me about anything related to JavaScript and related technologies
+ ❓ Ask me about anything related to JavaScript and related technologies
+  </strong>
   
-
 <br/>  
 <hr />
 
@@ -30,8 +30,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-
-<br/>  
 <hr />
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemakcay&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
@@ -40,4 +38,9 @@
   
 <div align="center">
   <a href="https://linkedin.com/in/gorkemakcay"><img src="https://github.com/gorkemakcay/gorkemakcay/blob/output/github-contribution-grid-snake.svg"></a>
+</div>  
+
+
+<div align="center">
+<a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" width="150px" height="100px"></a>
 </div>  
