@@ -37,13 +37,10 @@
 <br/>
   
 <div align="center">
-  <a href="https://linkedin.com/in/gorkemakcay"><img src="https://github.com/gorkemakcay/gorkemakcay/blob/output/github-contribution-grid-snake.svg"></a>
+  <img src="https://github.com/gorkemakcay/gorkemakcay/blob/output/github-contribution-grid-snake.svg" width="100%">
 </div>  
 
-
-<div align="center">
-<a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" width="150px" height="100px"></a>
-</div>  
+<br/><br/>
 
       ____                  ____                      
      / __ \___  ___ ___    / __/__  __ _____________  
@@ -54,3 +51,5 @@
      / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
     /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                      /___/                /___/       
+                     
+<div align="center"><a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" width="150px" height="100px"></a></div>  
