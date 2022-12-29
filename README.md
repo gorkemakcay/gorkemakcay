@@ -52,4 +52,6 @@
     /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                      /___/                /___/       
                      
-<div align="center"><a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" width="150px" height="100px"></a></div>  
+                     
+
+<div align="center" width="150px" height="100px"><a href="https://linkedin.com/in/gorkemakcay"><img src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg"></a></div>  
