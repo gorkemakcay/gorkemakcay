@@ -35,13 +35,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemakcay&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
 
 <br/>
-  
+<!--   
 <div align="center">
   <img src="https://github.com/gorkemakcay/gorkemakcay/blob/output/github-contribution-grid-snake.svg" width="100%">
 </div>  
 
 <br/><br/>
-
+-->
       ____                  ____                      
      / __ \___  ___ ___    / __/__  __ _____________  
     / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
