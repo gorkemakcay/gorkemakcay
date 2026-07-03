@@ -2,17 +2,9 @@
 ## <div align="center">Hi there 👋 I'm Görkem, a Full-Stack Developer 👨‍💻</div>
 
  
-    I adopt and implement SOLID principles, OOP Basics, Software Architectures and Design Patterns when coding. ❤️ d==(◕◡◕)==b
+d==(◕◡◕)==b
    </br>
    
- 🔭 <strong> I’m currently working  on [DevPARAM API](https://github.com/gorkemakcay/DevParamAPI)
-  
-
- 🌱 I’m currently learning React
-  
-
- ❓ Ask me about anything related to JavaScript and related technologies
-  </strong>
   
 <br/>  
 <hr />
